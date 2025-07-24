@@ -1217,13 +1217,13 @@ main .main-wrapper.demo-06 .team-area .team-wrapper {
 }
 
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item {
-  width: calc(33.33% - 50px);
+  width: calc(25% - 50px);
   margin: 0px 25px 50px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   main .main-wrapper.demo-06 .team-area .team-wrapper .team-item {
-    width: calc(33.33% - 30px);
+    width: calc(25% - 30px);
     margin: 0px 15px 50px;
   }
 }
